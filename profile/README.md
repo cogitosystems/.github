@@ -1,0 +1,1 @@
+![Cogito Systems](https://raw.githubusercontent.com/cogitosystems/.github/main/images/banner.png)
